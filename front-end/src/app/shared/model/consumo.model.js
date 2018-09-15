@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 "use strict";
 var Consumo = (function () {
     function Consumo(consumo) {

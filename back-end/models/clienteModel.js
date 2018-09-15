@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var mongoose =  require('mongoose');
 extend =        require('mongoose-schema-extend'),
 Schema =        mongoose.Schema;

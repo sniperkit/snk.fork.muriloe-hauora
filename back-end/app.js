@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var express =                       require('express');
 var app =                           express();
 var mongoose =                      require('mongoose');

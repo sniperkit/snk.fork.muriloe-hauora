@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var mongoose =  require('mongoose');
 var Schema =    mongoose.Schema;
 var ObjectId =  Schema.Types.ObjectId;

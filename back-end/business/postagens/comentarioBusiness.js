@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 let Cliente =       require("../../models/clienteModel");
 let Postagem =      require("../../models/postagemModel");
 let Nutricionista = require("../../models/nutricionistaModel");

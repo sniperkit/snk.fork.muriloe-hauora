@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 let Cliente =       require("../../models/clienteModel");
 let Cardapio =      require("../../models/cardapioModel");
 let Composicao =    require("../../models/composicaoModel");

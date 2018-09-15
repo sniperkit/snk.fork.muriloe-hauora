@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var Pessoas =       require('../models/pessoaModel');
 var Clientes =      require('../models/clienteModel');
 var Anamneses =     require('../models/anamneseModel');

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 "use strict";
 var Comentario = (function () {
     function Comentario(duvida) {

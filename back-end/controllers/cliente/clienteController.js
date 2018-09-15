@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var bodyParser =    require('body-parser');
 var mongoose =      require('mongoose');
 var Cliente =       require('../../models/clienteModel');

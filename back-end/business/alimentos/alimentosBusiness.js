@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 let Grupo =     require("../../models/grupoModel");
 let Alimento =  require("../../models/alimentoModel");
 

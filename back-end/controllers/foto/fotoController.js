@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var path =          require('path');
 const sharp =       require('sharp');
 var fs =            require("fs");

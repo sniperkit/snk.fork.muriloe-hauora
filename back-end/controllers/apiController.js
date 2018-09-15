@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 //UTILIZADA SOMENTE PARA TESTES
 
 var Pessoas =       require('../models/pessoaModel');
